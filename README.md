@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=i-akash&label=Profile%20views&color=0e75b6&style=flat" alt="i-akash" /> </p>
 
+<!--
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=i-akash" alt="i-akash" /></a> </p>
 
 - 🔭 I’m currently working on **Cloud Proactive Auto scaling (Thesis)**
@@ -10,6 +12,8 @@
 - 🌱 I’m currently learning **Time series analysis, Algorithm and data structure**
 
 - 💬 Ask me about **Web Development, Web Scraping, Cloud Computing, Blockchain**
+
+-->
 
 - 📫 How to reach me **i.akash.se@gmail.com**
 
@@ -27,8 +31,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=i-akash&show_icons=true&locale=en&layout=compact" alt="i-akash" /></p>
 
+<!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=i-akash&show_icons=true&locale=en" alt="i-akash" /></p>
-
+-->
 
 
 

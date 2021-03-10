@@ -7,9 +7,11 @@ Programmer | Developer | Cloud computing enthusiast | Blockchain enthusiast
 - Information Security
 
 ##### Contract
-<a href="https://www.linkedin.com/in/uttom-akash/" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="uttom akash" height="30" width="40" />
-</a>
+<p>
+  <a href="https://www.linkedin.com/in/uttom-akash/" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="uttom akash" height="30" width="40" />
+  </a>
+</p>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=i-akash)  
 

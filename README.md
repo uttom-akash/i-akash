@@ -1,6 +1,6 @@
-###  Uttom Akash
-#### Associate Software Engineer at [Cefalo](https://www.cefalo.com/en/)
-Programmer | Developer | Cloud computing enthusiast | Blockchain enthusiast | 
+####  Uttom Akash
+##### Associate Software Engineer at [Cefalo](https://www.cefalo.com/en/)
+Programmer | Developer | Cloud computing enthusiast | Blockchain enthusiast
 
 ##### Focusing
 - Distributed System

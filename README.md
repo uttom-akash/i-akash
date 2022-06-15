@@ -3,8 +3,8 @@
 Programmer | Developer | Cloud computing enthusiast | Blockchain enthusiast | Distributed computing enthusiast
 
 ##### Focusing
-- Distributed System
-- Information Security
+- Distributed Computing
+- Cloud Computing
 
 ##### Contract
 <p>

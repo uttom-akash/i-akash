@@ -2,9 +2,10 @@
 ##### Software Engineer at [Cefalo](https://www.cefalo.com/en/)
 Programmer | Developer | Cloud computing enthusiast | Blockchain enthusiast | Distributed computing enthusiast
 
-##### Focusing
+##### Interested areas
 - Distributed Computing
 - Cloud Computing
+- Consensus protocol
 
 ##### Contract
 <p>

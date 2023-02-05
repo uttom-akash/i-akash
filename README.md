@@ -1,12 +1,12 @@
 ####  Uttom Akash
 ##### Software Engineer at [Cefalo](https://www.cefalo.com/en/)
-Programmer | Developer | Cloud computing enthusiast | Blockchain enthusiast | Distributed computing enthusiast
 
 ##### Interested areas
 - Distributed Computing
 - Cloud Computing
 - Consensus protocol
 - Information Security
+- Blockchain
 
 ##### Contract
 <p>

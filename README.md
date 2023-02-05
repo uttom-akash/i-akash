@@ -6,6 +6,7 @@ Programmer | Developer | Cloud computing enthusiast | Blockchain enthusiast | Di
 - Distributed Computing
 - Cloud Computing
 - Consensus protocol
+- Information Security
 
 ##### Contract
 <p>

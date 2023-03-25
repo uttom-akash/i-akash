@@ -1,12 +1,28 @@
-####  Uttom Akash
-##### Software Engineer at [Cefalo](https://www.cefalo.com/en/)
+##  Uttom Akash
+#### Software Engineer at [Cefalo](https://www.cefalo.com/en/)
 
 ##### Interested areas
 - Distributed Computing
 - Cloud Computing
 - Consensus protocol
-- Information Security
 - Blockchain
+- Information retrieval
+- Information Security
+
+##### Work Experience
+- Cefalo
+  - Software Engineer | `Jan, 2022 - present`
+  - Associate Software Engineer | `Dec, 2020- Dec, 2021`
+  - Trainee Software Engineer | `Jan, 2020 - Jul, 2020`
+
+##### Education
+- Shahjalal University Of Science and Technology
+  - Bsc in Software Engineering 
+
+##### Research
+- International Journal of Grid and Utility Computing
+  - An event-driven and lightweight proactive autoscaling architecture for cloud applications
+
 
 ##### Contract
 <p>
